@@ -5,3 +5,5 @@ after that you have to write the PXI-5105-IVI-Driver using IVI-driver
 
 
 tags: NI-PXI 5105 ,  PXI-5105 sampler , PXI-5105 Samples  , MATLAB
+
+google-site-verification: google50b65d27a30e90aa.html
